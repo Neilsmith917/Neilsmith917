@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [PacMan]
+- [PacMan](https://github.com/Neilsmith917/PacMan-Excersice)
 
-- [Eye Exercise]
+- [Eye Exercise](https://github.com/Neilsmith917/Eye-Excercise/blob/main/README.md)
 
-- [Real Time Bus Tracker]
+- [Real Time Bus Tracker](https://github.com/Neilsmith917/Real-Time-Bus-Tracker)
 
 <h2> Certicications</h2>
 
-- [Begginers certificate in python]
+- [Begginers certificate in python](file:///C:/Users/neils/Downloads/Coursera%20programing%20cerificate.pdf)
 
 <h2>📺 Popular YouTube Videos</h2>
 
